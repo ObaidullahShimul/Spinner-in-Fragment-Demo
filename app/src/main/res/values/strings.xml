@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SpinnerWithFragmentPrc</string>
+
+    <string-array name="spinner_title">
+
+        <item>Web Design</item>
+        <item>Graphics Design</item>
+        <item>Android App Development</item>
+        <item>Digital Marketing</item>
+        <item>Search Engine Optimization</item>
+        <item>PHP with Framework</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
